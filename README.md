@@ -4,3 +4,7 @@
 [![Asif's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asif-aiub18&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats)
 
 ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api/?username=asif-aiub18&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<--### Most Used Languages
+<img src="https://wakatime.com/share/@asif-aiub18/24ecb986-5bf8-4607-af7f-0aab08908d8c.png" />
+
